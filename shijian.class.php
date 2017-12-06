@@ -106,5 +106,14 @@ function bar(){
     echo "bar() is calledn" . "</br>"; 
 } 
   
+
+
+
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦
+
+
+
+
+
 Event::listen('bar3', 'bar') . "</br>"; 
 Event::trigger('bar3') . "</br>";
