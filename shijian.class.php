@@ -1,4 +1,10 @@
 <?php
+
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+
 class Event 
 { 
     //设置静态变量
